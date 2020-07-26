@@ -25,4 +25,4 @@ optional arguments:
   <br>
   -c COOKIES [COOKIES ...]  Space separated list of cookies
 <br><br><br>
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O11OQXD)[![ko-fi]
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O11OQXD)
